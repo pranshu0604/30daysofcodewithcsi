@@ -4,7 +4,7 @@ class user{
      string name;
      int age;
 public:
-     user(){
+     user(){     //constructor
           cout<<"Enter your name: ";
           cin>>name;
           cout<<"Enter your age: ";
