@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
-void main(){
+int main(){
   cout<<"Day 1 of 30 days of code"<<endl;
+  return 0;
 }
